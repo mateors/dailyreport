@@ -21,14 +21,15 @@ Everyday is my new day
   IdentityFile ~/.ssh/id_ed25519
   
 ```
-
+### [how to add ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 > ssh-add ~/.ssh/github
 
+### Test your connection
 > ssh -T git@home.github.com
 
 > ssh -T git@company.github.com
 
-### Github repo
-* https://github.com/mateors/dailyreport.git
+### Now all are set, just clone your repositories
+* repo -> https://github.com/mateors/dailyreport.git
 
 > git clone git@home.github.com:mateors/dailyreport.git 
