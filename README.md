@@ -21,7 +21,7 @@ Everyday is my new day
   IdentityFile ~/.ssh/id_ed25519
   
 ```
-### [how to add ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+### Add ssh key
 > ssh-add ~/.ssh/github
 
 ### Test your connection
@@ -33,3 +33,6 @@ Everyday is my new day
 * repo -> https://github.com/mateors/dailyreport.git
 
 > git clone git@home.github.com:mateors/dailyreport.git 
+
+## Resource
+* [how to add ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
