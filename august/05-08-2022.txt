@@ -1,0 +1,12 @@
+# Pivot Table
+## What is the use pivot table?
+> A PivotTable is an interactive way to quickly summarize large amounts of data. You can use a PivotTable to analyze numerical data in detail, and answer unanticipated questions about your data. A PivotTable is especially designed for: Querying large amounts of data in many user-friendly ways.
+
+> it simply “pivots” or turns the data to view it from different perspectives.
+
+
+## Resource
+* https://www.youtube.com/watch?v=rZ6FYUFNEkA
+* https://xuri.me/excelize/en/releases/v2.6.1.html
+* https://www.lumeer.io/pivot-table-complete-guide/
+
